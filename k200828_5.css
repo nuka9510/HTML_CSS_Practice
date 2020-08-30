@@ -1,0 +1,4 @@
+﻿ul{background:lightgray; padding:6px; }
+li{display:inline; padding:10px 10px;}
+a{color:black; padding:5px 10px; text-decoration:none;}
+a:hover{background:gray; color:white;}

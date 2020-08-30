@@ -1,0 +1,4 @@
+﻿table{table-layout:fixed; width:80%; height:200px; border:1px solid; border-top:5px solid black; background:white;}
+th{border-bottom:3px solid black; background:gray; color:white;}
+td{text-align:center; border:1px dotted red; font-weight:bold;}
+caption{font-size:30px; color:red; font-weight:bold;}

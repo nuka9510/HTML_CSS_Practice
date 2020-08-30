@@ -1,0 +1,5 @@
+﻿div{margin:20px; padding:0px; width:350px; height:80px;}
+#b1{background-color:cyan;}
+#b2{background-color:magenta; text-align:center;}
+#b3{background-color:yellow; text-align:center; height:80px; line-height:80px;}
+//높이를 height와 동일하게 하여 상하방향으로 중앙정렬 한다.

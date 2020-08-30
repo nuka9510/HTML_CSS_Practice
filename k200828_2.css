@@ -1,0 +1,5 @@
+﻿h3{background-color:gray; color:white;}
+div{width:300px; height:100px; margin:20px; padding:20px; border:20px gray solid;}
+#b1{box-sizing:content-box;}
+#b2{box-sizing:border-box;}
+/*테두리 선 포함*/
