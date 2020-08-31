@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html>
+ <head>
+	<meta charset="utf-8">
+	<title>k200831_3</title>
+	<style>
+		@import "k200831_3.css";
+	</style>
+ </head>
+
+ <body>
+	<form>
+		<fieldset>
+			<legend>인적사항</legend>
+			아이디:<input type="text" autofocus required style="width:100px;"><br>
+			이름:<input type="text"><br>
+			주민:<input type="text" size="6">-<input type="text" size="7">
+		</fieldset>
+		<fieldset>
+			<legend>인적사항</legend>
+			아이디:<input type="text" placeholder="성명입력"><br>
+			이름:<input type="text"><br>
+			주민:<input type="text" size="6">-<input type="text" size="7"><br>
+			국가코드:<input type="text" pattern="[A~Za~z]{3}" title="국가코드 영문 3자리를 입력하세요." placeholder="영문 3자리">
+		</fieldset>
+		
+		<input type="submit" value="submit">
+	</form>
+ </body>
+</html>
